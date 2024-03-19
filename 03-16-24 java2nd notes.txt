@@ -1,0 +1,50 @@
+Polymorphism - Many forms
+Dynamic polymorphism
+
+Inheritance - To use already creating stuff into somewhere else after making 
+		relationship. 
+		In Java that relationship generally happens between two classes 
+		using extends keyword.
+		Bigger class is called as Parent/Super/Base , smaller is called as
+		Child/Sub/Derived.
+
+		3 kinds of Inheritance
+			1)Single
+			2)Multilevel
+			3)Hierarchical
+
+				1)Single - realtionship between two classes
+				2)Multilevel - from Parent to Child and from 						Child(Parent) to child  						3)Hierarchical - One base class and rest are 						derived class.
+
+
+		Can inherit interfaces
+		Can inherit abstract classes
+
+		Method Overriding - When we use the method of Base class into child 				    and provide new or addon body.	
+				    We should mind access specifier in that case.
+					A private/protected can be public
+					A public cannot be private or protected	  
+
+
+Static Polymorphism - mehtod overloading	
+
+to load/reuse the same method again in a same class.For doing that we need to mind
+method signature.
+
+	Method Signature :
+		1)Number of parameters
+		2)Type of parameters
+		3)Sequence of parameters
+
+
+ishasharma21.set@modyuniversity.ac.in
+
+
+
+
+
+
+
+
+
+
